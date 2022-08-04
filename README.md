@@ -6,6 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Watch the tutorial step by step [here](https://www.youtube.com/watch?v=4CYuOiRHHA8&ab_channel=ZoaibKhan).
 
+##  Tutorials
+- https://zoaibkhan.com/blog/create-a-responsive-sidebar-menu-with-angular-material/
 
 ## Development server
 
